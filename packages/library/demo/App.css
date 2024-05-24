@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.card {
+  max-width: 30rem;
+  font-family: monospace;
+  text-align: start;
+  margin-bottom: 2rem;
+}
+
+button {
+  font-size: 2rem;
+}
